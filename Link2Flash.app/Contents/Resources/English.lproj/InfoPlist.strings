@@ -1,0 +1,4 @@
+CFBundleName = "Link2Flash";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Link2Flash version 1.0 Copyright 2011 Martin Planer";
+NSHumanReadableCopyright = "Copyright 2011 Martin Planer.";
