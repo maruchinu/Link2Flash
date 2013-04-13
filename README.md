@@ -1,6 +1,8 @@
 Link2Flash
 ==========
 
+**WARNING**: Does not work anymore due to the new Pepper-based plugin in Chrome that is not compatible with Safari :(
+
 Use Chrome's integrated Flash plugin with e.g. Safari
 
 
